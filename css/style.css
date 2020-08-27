@@ -85,11 +85,11 @@ header {
 }
 
 nav{
-  background-color: #000;
+  background-color: #00acb6;
 padding:6px 0;
   
 }
-nav a .fa{text-decoration:none;color:#484848;}
+nav a .fa{text-decoration:none;color:#fff;}
 
 nav .menu{display:none}
 @media (min-width:768px){
@@ -267,7 +267,7 @@ main .label a{max-width:315px;padding:11px 0 7px 15px;font-size:12px;}
 .border .col-sidebar-text p{display:table-cell;vertical-align:middle;margin:0;}
 .border .col-sidebar-text a{font-family:"Roboto";text-decoration:none;color:#010101}
 .border .col-sidebar-text a:hover{text-decoration:underline}
-footer{background:#020202;color:#9a9a9a;padding:10px 0 0px}
+footer{background:#00acb6;color:#9a9a9a;padding:10px 0 0px}
 footer img{margin-bottom:10px}
 footer p{color:#9a9a9a;font-size:13px;line-height:20px}
 footer a{font-family: 'Roboto';color:#9a9a9a;text-decoration:underline;font-weight:normal}
